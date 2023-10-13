@@ -44,7 +44,7 @@ We welcome contributions from the community! If you wish to contribute to Talkie
 
 ## Deployment
 
-The live version of Talkie-App is deployed on Netlify. You can access it using the following link: [Talkie-App on Netlify](https://coruscating-paprenjak-7b3526.netlify.app/)
+The live version of Talkie-App is deployed on Netlify. You can access it using the following link: [Talkie-App](https://coruscating-paprenjak-7b3526.netlify.app/)
 
 ## License
 
