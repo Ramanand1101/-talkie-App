@@ -10,10 +10,12 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     font-family: 'Gabarito', sans-serif;
-    background-image: url(../tts\ representation.jpg);
+    background-image: url(https://img.freepik.com/free-vector/people-with-technology-devices_23-2148472794.jpg?w=1060&t=st=1697198979~exp=1697199579~hmac=b6cc4ec5a443cd94470328b9ace29e22685d3fe1bd217f8598bcdd8703d8f532);
+    background-size: cover; 
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    top: 20px;
 }
 
 
